@@ -1,6 +1,6 @@
 # SEN 201 - Hello World Program
-# Author: <Your Name>
-# Date: <Today's Date>
+# Author: Amalokwu Emmanuel 
+# Date: 26 October 2025
 
 def main():
     print("Hello, World")
